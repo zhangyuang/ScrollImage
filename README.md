@@ -7,4 +7,5 @@
 <img src="https://github.com/zhangyuang/ScollImage/blob/master/src/assets/images/scroll2.gif" style="width: 375px,height: 667px">
 <br>
 当滑动没有超过设置的距离时会返回当前页面
+<br>
 <img src="https://github.com/zhangyuang/ScollImage/blob/master/src/assets/images/scroll1.gif" style="width: 375px,height: 667px">
