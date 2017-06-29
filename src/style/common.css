@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+	font-family: '微软雅黑'
+}
+@media screen and (max-width:321px) {
+    html {
+        font-size: 12px!important
+    }
+}
+@media screen and (min-width: 322px) and (max-width:480px) {
+    html {
+        font-size: 16px!important
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width:640px) {
+    html {
+        font-size: 24px!important
+    }
+}
+
+@media screen and (min-width: 641px) {
+    html {
+        font-size: 32px!important
+    }
+}
