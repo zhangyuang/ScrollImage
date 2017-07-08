@@ -9,8 +9,6 @@ npm run dev
 # build
 npm run build
 
-# 在生产模式下启动
-npm run start-prod
 ```
 ## V1.0
 ### 当前为1.0版本，之后的版本会考虑将其抽象为一个复用性强的第三方组件。
